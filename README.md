@@ -167,7 +167,8 @@ This layout defines the individual student record card displayed in the SQLite r
 
 **Expected Output:** The saved name and USN should be displayed in the profile section.
 
-**Screenshot:** Add `screenshots/shared_preferences.png`.
+**Screenshot:** <img width="746" height="1600" alt="1" src="https://github.com/user-attachments/assets/1cfe68d5-2608-40a3-a6ed-8357a0b4a76c" />
+
 
 ### Test Case 2: SQLite — Insert and Display Student Records
 
@@ -181,7 +182,8 @@ This layout defines the individual student record card displayed in the SQLite r
 
 **Expected Output:** The newly added student should appear in the records list with an assigned ID, name and USN.
 
-**Screenshot:** Add `screenshots/sqlite_records.png`.
+**Screenshot:** <img width="746" height="1600" alt="2" src="https://github.com/user-attachments/assets/cba8eb8b-0bc7-4712-9f74-b2eb42d4bcfa" />
+
 
 ### Test Case 3: SQLite — Delete Student Record
 
@@ -195,7 +197,8 @@ This layout defines the individual student record card displayed in the SQLite r
 
 **Expected Output:** The selected student record should be removed from the list and database.
 
-**Screenshot:** Add `screenshots/delete_record.png`.
+**Screenshot:** <img width="746" height="1600" alt="3" src="https://github.com/user-attachments/assets/f49c13e7-4435-4df9-b89c-40b018d21c81" />
+
 
 ### Test Case 4: Data Persistence After Restart
 
@@ -210,7 +213,7 @@ This layout defines the individual student record card displayed in the SQLite r
 
 **Expected Output:** The saved profile and student records should remain available unless they were explicitly cleared or deleted.
 
-**Screenshot:** Add `screenshots/app_home.png` or capture a separate restart verification screenshot.
+ 
 
 ## 10. Output
 
