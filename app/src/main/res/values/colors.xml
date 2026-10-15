@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="charcoal_bg">#121212</color>
+    <color name="charcoal_card">#1E1E1E</color>
+    <color name="charcoal_surface">#2A2A2A</color>
+    <color name="charcoal_border">#383838</color>
+
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#757575</color>
+
+    <color name="accent_primary">#E0E0E0</color>
+    <color name="btn_text_dark">#121212</color>
+
+    <color name="delete_bg">#2D1D1D</color>
+    <color name="delete_border">#5A2E2E</color>
+    <color name="delete_text">#FFB4B4</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

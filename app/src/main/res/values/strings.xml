@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Student Data Manager</string>
+    <string name="app_subtitle">Your student information, organized.</string>
+    <string name="section_shared_pref">1. SharedPreferences (Profile)</string>
+    <string name="section_sqlite">2. SQLite Database (Records)</string>
+
+    <string name="hint_profile_name">Enter Student Name</string>
+    <string name="hint_profile_usn">Enter USN / ID</string>
+    <string name="hint_db_name">Enter Student Name</string>
+    <string name="hint_db_usn">Enter USN / ID</string>
+    <string name="hint_delete_id">Student ID to Delete</string>
+
+    <string name="btn_save">Save Profile</string>
+    <string name="btn_load">Load Profile</string>
+    <string name="btn_clear">Clear Profile</string>
+    <string name="btn_add_student">Add Record</string>
+    <string name="btn_view_students">View All Records</string>
+    <string name="btn_delete_student">Delete Record</string>
+
+    <string name="no_profile_loaded">No profile currently saved in SharedPreferences.</string>
+    <string name="no_db_records">No student records found in SQLite database.</string>
+</resources>
